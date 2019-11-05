@@ -1,0 +1,6 @@
+com/ideas2it/tutionmaster/student/controller/StudentManipulation.class
+com/ideas2it/tutionmaster/student/StudentApplication.class
+com/ideas2it/tutionmaster/student/repository/StudentRepository.class
+com/ideas2it/tutionmaster/student/model/Student.class
+com/ideas2it/tutionmaster/student/service/StudentService.class
+com/ideas2it/tutionmaster/student/service/impl/StudentServiceImpl.class
